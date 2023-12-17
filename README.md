@@ -10,21 +10,19 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on a project funded by NIH on **Abnormal Driving Detection using GPS Data** extracted from real drivers.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning ** C, OLAP, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Python, JavaScript, QGIS... or anything [here](https://github.com/fiifjay/fiifijay/issues)**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:cboateng2023@fau.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/fiifijay360" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
