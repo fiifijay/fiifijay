@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charles+Boateng;" />
 </h1>
 
-<h3 align="center">A graduate student of Florida Atlantic University 🇨🇦</h3>
+<h3 align="center">A graduate student of Florida Atlantic University </h3>
 
 <br/>
 
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,postgis" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,,java,oracle" /><br>
 </div>
 
 <br/>
